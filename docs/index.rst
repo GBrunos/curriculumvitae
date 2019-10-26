@@ -5,6 +5,9 @@
 
     Professione
     Esperienze professionali
+    Istruzione e Formazione
+    Conoscenze linguistiche
+    Competenze e Qualifiche
 
 .. _h303cf3c491e4119152f54e6e29734:
 
