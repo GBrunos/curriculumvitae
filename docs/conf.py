@@ -40,3 +40,4 @@ def setup(app):
 # inserire un logo in alto a sinistra (mettendo l’immagine nella cartella “static”)
 latex_logo = "static/AGID-io.jpg"
 html_logo = "static/AGID-io.jpg"
+templates_path = ['_templates']
