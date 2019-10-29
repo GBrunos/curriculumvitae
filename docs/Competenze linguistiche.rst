@@ -16,5 +16,29 @@ Inglese
 |B2 utente autonomo|B2 utente autonomo|B2 utente autonomo|
 +------------------+------------------+------------------+
 
+.. _h6826103a3353684d5e4f3e4a5d7a2958:
+
+Spagnolo
+========
+
+
++--------------+--------------+--------------+
+|Comprensione  |Parlato       |Scritto       |
+|              |              |              |
+|A2 utente base|A2 utente base|A2 utente base|
++--------------+--------------+--------------+
+
+.. _h93c696d3a3342778446a63266a81a:
+
+Francese
+========
+
+
++--------------+--------------+--------------+
+|Comprensione  |Parlato       |Scritto       |
+|              |              |              |
+|A2 utente base|A2 utente base|A2 utente base|
++--------------+--------------+--------------+
+
 
 .. bottom of content
