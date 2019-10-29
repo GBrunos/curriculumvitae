@@ -38,6 +38,6 @@ def setup(app):
 #latex_documents = []
 
 # inserire un logo in alto a sinistra (mettendo l’immagine nella cartella “static”)
-latex_logo = "static/io-formal.jpg"
-html_logo = "static/io-formal.jpg"
+latex_logo = "static/io_formal.jpg"
+html_logo = "static/io_formal.jpg"
 templates_path = ['_templates']
