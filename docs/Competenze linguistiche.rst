@@ -42,10 +42,6 @@ Francese
 
 (\*) \ |LINK1|\ 
 
-
-.. Skipped, unable to convert element of type INLINE_DRAWING
-
-
 .. bottom of content
 
 
