@@ -1,8 +1,8 @@
 
-.. _h42112855561f11511a4d3072c1d3e48:
+.. _h3f5448f161c222b22167d774d3d26:
 
-Competenze linguistiche
-***********************
+Competenze linguistiche\*
+*************************
 
 .. _h785b26c3d5d3a5746804c6774164a34:
 
@@ -40,5 +40,12 @@ Francese
 |A2 utente base|A2 utente base|A2 utente base|
 +--------------+--------------+--------------+
 
+(\*) \ |LINK1|\ 
 
 .. bottom of content
+
+
+.. |LINK1| raw:: html
+
+    <a href="https://europass.cedefop.europa.eu/it/resources/european-language-levels-cefr" target="_blank">Quadro comune europeo di riferimento per le lingue</a>
+
