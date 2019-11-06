@@ -1,8 +1,7 @@
 
 .. toctree:: 
     :maxdepth: 5
-    :hidden:
-
+    
     Professione
     Esperienze professionali
     Istruzione e Formazione
