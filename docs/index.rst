@@ -1,6 +1,7 @@
 
 .. toctree:: 
     :maxdepth: 5
+    :caption:
     
     Professione
     Esperienze professionali
