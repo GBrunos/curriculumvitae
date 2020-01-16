@@ -1,2 +1,2 @@
 # curriculumvitae
-si tratta del mio CV aggiornato a ottobre 2019
+si tratta del mio CV in italiano aggiornato a ottobre 2019
