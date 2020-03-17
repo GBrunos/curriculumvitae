@@ -4,16 +4,21 @@
 Competenze linguistiche\*
 *************************
 
-.. _h785b26c3d5d3a5746804c6774164a34:
+.. _h221d2f7c5d4a501022645a4f386e7572:
 
-Inglese
-=======
+Inglese 
+========
+
+.. _ha552d4339442b4514686d7839564:
+
+\ |LINK1|\ 
+-----------
 
 
 +------------------+------------------+------------------+
 |Comprensione      |Parlato           |Scritto           |
 |                  |                  |                  |
-|B2 utente autonomo|B2 utente autonomo|B2 utente autonomo|
+|B1 utente autonomo|B1 utente autonomo|B1 utente autonomo|
 +------------------+------------------+------------------+
 
 .. _h6826103a3353684d5e4f3e4a5d7a2958:
@@ -40,12 +45,16 @@ Francese
 |A2 utente base|A2 utente base|A2 utente base|
 +--------------+--------------+--------------+
 
-(\*) \ |LINK1|\ 
+(\*) \ |LINK2|\ 
 
 .. bottom of content
 
 
 .. |LINK1| raw:: html
+
+    <a href="https://drive.google.com/file/d/1XQfJvOaqzSCOjkvnKhQR5lDpr_mfd3wo/view?usp=sharing" target="_blank">cambridge assessment english</a>
+
+.. |LINK2| raw:: html
 
     <a href="https://europass.cedefop.europa.eu/it/resources/european-language-levels-cefr" target="_blank">Quadro comune europeo di riferimento per le lingue</a>
 
