@@ -1,13 +1,13 @@
 
 .. toctree:: 
-    :maxdepth: 5
+    :maxdepth: 7
     :hidden:
-    
+
     Professione
     Esperienze professionali
     Istruzione e Formazione
     Competenze linguistiche
-    Certificati e Qualifiche
+    Certificati e Qualifiche Associazione
 
 .. _h303cf3c491e4119152f54e6e29734:
 
