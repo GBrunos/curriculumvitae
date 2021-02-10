@@ -1,6 +1,6 @@
 
 .. toctree:: 
-    :maxdepth: 7
+    :maxdepth: 6
     :hidden:
 
     Professione
